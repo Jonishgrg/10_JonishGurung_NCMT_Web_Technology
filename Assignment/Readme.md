@@ -1,1 +1,1 @@
-Create a repo add two folders containing assignment & project✅
+Assignment 1: Create a repo add two folders containing assignment & project✅
