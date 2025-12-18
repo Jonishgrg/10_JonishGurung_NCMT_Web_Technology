@@ -1,1 +1,49 @@
+Web Technology
+Assignment 1
 
+Student Name:Jonish Gurung                  Date:2025/12/18
+Roll/ID No:10                           Program:BIT
+
+CHAPTER 1: AN OVERVIEW OF THE INTERNET AND THE WEB
+Group A: Short Questions (2 Marks)
+1. Define the term ”Protocol” in the context of the Internet. 
+-> In the context of the Internet the term "”Protocol” is a set rule that computer follows to communicate with each other on the internet.
+Like, for example people need a common language to talk, computers need protocols 
+so they know how the data should be sent, received, and understood.
+
+2. What is the primary difference between a Web Browser and a Search Engine?
+-> A web browser is a software application that is used to open and view websites.
+Without a browser,you connot access the web.
+-> A search engine is a  tool or service that helps you search for 
+information or websites on the internet.
+Browser is access tool
+Search engine is finding tool
+
+3. Define the World Wide Web (WWW).
+->The World Wide Web(WWW) is a huge collection of web pages, images, videos, and other resources that are 
+connected through links and stored on server aross the world.
+The Internet is the physical network (cables,routers, satellites), while the WWW is a service that runs on the internet, 
+accessed using browers and web protocols.
+
+4. Distinguish between a static web page and a dynamic web page.
+->A static web page is fixed. Every visitor sees the same content, and it only
+changes if a developer manually edits the file.Where as dynamic web page changes the contents itself or automatically without
+a manual procedures.
+
+Group B: Long Questions (4 Marks)
+5. Explain the client-server architecture of the web with a neat diagram.
+->
+6. Describe the functions of the following Internet services: Email, FTP, and VoIP.
+7. ”The Internet is a network of networks.” Elaborate on this statement explaining how
+packet switching works.
+Group C: Scenario-Based Questions (5 Marks)
+8. A startup company wants to host a website that displays the same information to all
+visitors and requires very low maintenance costs. However, they are being advised to use
+a dynamic website. As a consultant, would you agree? Justify your answer.
+9. A user types www.google.com into their browser, but the browser displays a ”Server Not
+Found” error, even though the internet connection is active. However, accessing the site
+via 142.250.190.46 works. Diagnose the problem and explain the underlying technology
+that failed.
+10. A multinational corporation wants to share sensitive inventory data with specific suppliers
+but does not want this information available to the general public. Explain which network
+type (Intranet, Extranet, or Internet) they should implement and why.
